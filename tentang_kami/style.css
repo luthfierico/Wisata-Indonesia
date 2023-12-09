@@ -188,6 +188,7 @@ height: 100vh;
 .card-klp h3{
     color: #2089f3;
     font-size: 20px;
+    margin-top: 20px;
 }
 .gambarr-klp:hover img{
 transition: 1s;
